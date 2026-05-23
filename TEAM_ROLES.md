@@ -1,14 +1,25 @@
-# Team Roles
+# Team Roles – Library Management System
 
-## Project Manager
-- Hassaan Fraz
-- Responsible for planning, task management, and documentation.
+## Project Manager (Student 1)
+- **Name:** Hassaan Fraz
+- **Enrollment:** 01-134222-066
+- **Responsibilities:**
+  - Repository creation
+  - Task assignment
+  - GitHub Projects management
+  - Progress tracking
+  - Project board updates
+  - Meeting logs
 
-## System Analyst
-- Responsible for requirement analysis and system design.
+## QA & Documentation Lead (Student 2)
+- **Name:** Muzammil Ahmed
+- **Enrollment:** 01-134222-114
+- **Responsibilities:**
+  - Testing plan creation
+  - Documentation management
+  - File uploads to repository
+  - Issue tracking
+  - Quality assurance
 
-## Developer
-- Responsible for implementation of modules and functionalities.
-
-## Tester
-- Responsible for testing and quality assurance.
+---
+*Last updated: May 23, 2026 by Muzammil Ahmed*
