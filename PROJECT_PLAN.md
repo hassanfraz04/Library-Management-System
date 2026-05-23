@@ -1,38 +1,25 @@
-# Project Plan - Library Management System
+# Team Roles – Library Management System
 
-## Introduction
-The Library Management System is designed to automate library operations including book issuing, returning, searching, and user management.
+## Project Manager (Student 1)
+- **Name:** Hassaan Fraz
+- **Enrollment:** 01-134222-066
+- **Responsibilities:**
+  - Repository creation
+  - Task assignment
+  - GitHub Projects management
+  - Progress tracking
+  - Project board updates
+  - Meeting logs
 
-## Project Goals
-- Improve library efficiency
-- Reduce manual record handling
-- Provide secure user authentication
-- Maintain accurate transaction records
+## QA & Documentation Lead (Student 2)
+- **Name:** Muzammil Ahmed
+- **Enrollment:** 01-134222-114
+- **Responsibilities:**
+  - Testing plan creation
+  - Documentation management
+  - File uploads to repository
+  - Issue tracking
+  - Quality assurance
 
-## Scope
-The system will include:
-- User authentication
-- Book inventory management
-- Borrow and return system
-- Search functionality
-- Admin dashboard
-
-## Timeline
-| Phase | Duration |
-|---|---|
-| Planning | 1 Week |
-| Design | 1 Week |
-| Development | 3 Weeks |
-| Testing | 1 Week |
-| Documentation | 1 Week |
-
-## Risks
-- Requirement changes
-- Time constraints
-- Technical issues
-
-## Deliverables
-- Project Board
-- Documentation
-- System Design
-- Final Presentation
+---
+*Last updated: May 23, 2026 by Muzammil Ahmed*
